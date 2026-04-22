@@ -45,6 +45,8 @@
 * 唯一性限制（Unique Constraints）
 
 主要資料表包含：
+<img width="1255" height="951" alt="image" src="https://github.com/user-attachments/assets/ce01f470-765e-432d-b999-95957f037387" />
+
 
 * Member
 * Proposal
