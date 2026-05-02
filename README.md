@@ -2,8 +2,7 @@
 
 ## 專案簡介（Project Overview）
 
-本專案是「資料庫管理系統（Database Management Systems）」課程之專案，
-以「回饋型群眾募資平台（Reward-based Crowdfunding Platform）」為情境進行資料庫系統設計與實作。
+本專案以「回饋型群眾募資平台（Reward-based Crowdfunding Platform）」為情境進行資料庫系統設計與實作。
 
 專案主要目標為：
 
